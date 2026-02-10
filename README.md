@@ -5,7 +5,7 @@ MCP server for debugging and monitoring [Hatchet](https://hatchet.run) jobs from
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hatchet-mcp.git
+git clone https://github.com/GJakobi/hatchet-mcp.git
 cd hatchet-mcp
 uv sync
 ```
